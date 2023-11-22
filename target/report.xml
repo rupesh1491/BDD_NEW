@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="65.958" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Premier League Table Information" name="Get the Position and Points for a given team from the Premier League table" time="65.784">
+<system-out><![CDATA[
+Given I am on the Daily Mail website........................................passed
+When I click on the Sport menu..............................................passed
+And I scroll down to the Premier League table...............................passed
+And I click on View all tables..............................................passed
+When I retrieve the Pos, PTS for the following teams........................passed
+]]></system-out>
+</testcase>
+</testsuite>
