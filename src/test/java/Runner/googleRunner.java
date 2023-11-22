@@ -14,6 +14,8 @@ import io.cucumber.junit.CucumberOptions;
     //tags = "@smoke", // Optional: Only run scenarios with this tag
     monochrome = true,
    plugin = {"pretty", "html:target/cucumberReports/cucumberReport.html"} // Optional: Define plugins
+    
+    // new change
 )
 
 public class googleRunner {
